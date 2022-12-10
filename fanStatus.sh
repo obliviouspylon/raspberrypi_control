@@ -1,0 +1,1 @@
+watch -n 5  cat '/home/pi/Desktop/Python_Modules/fanTemp.txt'
